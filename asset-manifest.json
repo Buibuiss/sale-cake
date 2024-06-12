@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Buibuiss.github.io/sale-cake/static/css/main.bd633910.css",
+    "main.js": "/Buibuiss.github.io/sale-cake/static/js/main.9c2b3f99.js",
+    "static/media/logo.png": "/Buibuiss.github.io/sale-cake/static/media/logo.85046939a6b505c34006.png",
+    "static/media/slick.svg": "/Buibuiss.github.io/sale-cake/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Buibuiss.github.io/sale-cake/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Buibuiss.github.io/sale-cake/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Buibuiss.github.io/sale-cake/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Buibuiss.github.io/sale-cake/index.html",
+    "main.bd633910.css.map": "/Buibuiss.github.io/sale-cake/static/css/main.bd633910.css.map",
+    "main.9c2b3f99.js.map": "/Buibuiss.github.io/sale-cake/static/js/main.9c2b3f99.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd633910.css",
+    "static/js/main.9c2b3f99.js"
+  ]
+}
